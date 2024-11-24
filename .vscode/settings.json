@@ -1,0 +1,8 @@
+{
+  "window.density.editorTabHeight": "compact",
+  "window.confirmSaveUntitledWorkspace": true,
+  "zenMode.showTabs": "multiple",
+  "zenMode.hideActivityBar": true,
+  "zenMode.hideLineNumbers": false,
+  "zenMode.hideStatusBar": true
+}
